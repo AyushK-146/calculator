@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=items\ x\ y\ toolTip\ consumerEvent
+comment2.target=javax.swing.JComboBox\ initCombo(java.lang.String[],\ int,\ int,\ java.lang.String,\ java.util.function.Consumer)
+comment3.params=label\ x\ y\ event
+comment3.target=javax.swing.JButton\ initBtn(java.lang.String,\ int,\ int,\ java.awt.event.ActionListener)
+comment4.params=x\ input\ opt
+comment4.target=double\ calc(double,\ java.lang.String,\ char)
+comment5.params=
+comment5.target=void\ repaintFont()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
